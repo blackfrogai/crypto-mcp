@@ -6,7 +6,7 @@ The servers listed demonstrate how MCP can bridge the gap between LLMs and the d
 
 > Note: Lists in this README are maintained in alphabetical order.
 
-## 🤝 Third-Party Servers
+## 🤝 Blockchain & Crypto MCP Servers
 
 ### 🎖️ Official Integrations
 
